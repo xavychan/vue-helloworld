@@ -8,7 +8,7 @@
     export default {
         data() {
             return {
-                message: "Xavier Francis Antony Manuel",
+                message: "Hello Vue World",
             }
         }
     }
